@@ -1,11 +1,11 @@
 import React from 'react';
-import { Film, Sparkles, Home, Cube } from 'lucide-react';
+import { Film, Sparkles, Home, Box } from 'lucide-react';
 
 const courses = [
   {
     title: '3D Animation',
     desc: 'Timing, posing, and polish across shots that match studio workflows.',
-    icon: Cube,
+    icon: Box,
     color: 'from-cyan-400/30 to-transparent',
   },
   {

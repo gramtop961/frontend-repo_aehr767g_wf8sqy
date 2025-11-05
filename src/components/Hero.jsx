@@ -12,7 +12,7 @@ const Hero = () => {
     <section className="relative w-full min-h-[80vh] sm:min-h-[90vh] overflow-hidden bg-black text-white">
       {/* 3D Scene */}
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/Z4mFOe-VPbTX4W76/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
 
       {/* Non-blocking gradient overlays */}
